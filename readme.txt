@@ -1,0 +1,4 @@
+public class Person{
+	String username£»
+	String password£»
+}
